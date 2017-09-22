@@ -6,5 +6,5 @@ target 'ESAdapter' do
   # use_frameworks!
 
   # Pods for ESAdapter
-  pod 'ESCategory', '~> 0.0.7’
+  pod 'ESCategory', '~> 0.1.4’
 end
